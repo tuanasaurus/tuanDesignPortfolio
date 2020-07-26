@@ -1,0 +1,29 @@
+html,
+body {
+    height: 100%;
+}
+
+.content {
+    min-height: 100%;
+}
+
+.hero {
+    margin: 10rem 10rem 0 10rem
+}
+
+.container--project {
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+}
+
+.container--project img {
+    width: 100%;
+}
+
+.col--project {
+    padding: 0;
+}
+
+.page-footer {
+    margin-top: -8rem;
+}
