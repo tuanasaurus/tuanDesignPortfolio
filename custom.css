@@ -20,6 +20,10 @@ body {
     width: 100%;
 }
 
+.container-home{
+    margin-top: 10rem;
+}
+
 .col--project {
     padding: 0;
 }
